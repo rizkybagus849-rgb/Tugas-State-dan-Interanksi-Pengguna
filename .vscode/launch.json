@@ -1,0 +1,16 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "krs_kampus (Chrome)",
+      "request": "launch",
+      "type": "dart",
+      "deviceId": "chrome"
+    },
+    {
+      "name": "krs_kampus (pilih device)",
+      "request": "launch",
+      "type": "dart"
+    }
+  ]
+}
